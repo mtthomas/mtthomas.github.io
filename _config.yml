@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Front-end Survival Guide
+title:
 
 # Short description of your site
-description: A guide to working as a front-end developer
+description:
 
 # --- Navigation bar options --- #
 
