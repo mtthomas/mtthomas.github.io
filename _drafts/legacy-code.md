@@ -1,0 +1,11 @@
+#Rewriting Active Code
+
+Legacy code we have all worked with it. Sometimes changing legacy code is easy. Other times we do whatever we can to avoid it. Legacy code will always be part of our development process. For me legacy code was about modifying an existing project. Recently I have looked a legacy code as being part of my current project. For me any code that is presented at a Sprint Review instantly becomes legacy code. So how do we deal with legacy code in our current application?
+ 
+First, when working with legacy code in a current project it is always tempting to want to refactor existing code to match our current understanding of a library, framework, pattern, etc. We try to convince our team, product owner and our self that this change must occur for the project to go forward. We loose sight of stakeholders. The stakeholders are expecting a minimum valuable produce (MVP). This MVP may actually show us that a different refactoring is needed. 
+ 
+Second, a complete overhaul of a feature is not always the best option. A team member recently told me that one project the team added comments to explain a difficult piece of code. The team wanted to refactor but it was faster to write comments for future developers. Another approach his team took was to refactor a small amount each time. Sometimes the simplest solution is the best solution. 
+
+Third, the team must decided when it is time to go back and rewrite legacy code. Rewriting a feature takes energy and time. The team should always be making progress toward MVP. Members of the team should feel free to make suggestions for improvement but ultimately the team must make the decision to rewrite.
+
+As a developer we should always strive to grow. However we can't get stuck in an endless loop of rewriting existing code based on our new knowledge. Sometimes the best solutions is to use comments to move development forward. Other times it is refactoring towards perfection. Ultimately the decision to rewrite is up to the team.
